@@ -1,4 +1,23 @@
 # Byte-compiled / optimized / DLL files
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+venv/
+env/
+
+# Excel 
+*.xlsx
+*.xls
+*.csv
+RAPORT_*.xlsx
+
+# PyInstaller
+build/
+dist/
+*.spec
 __pycache__/
 *.py[codz]
 *$py.class
